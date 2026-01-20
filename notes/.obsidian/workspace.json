@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "3. 실습 1"
             }
+          },
+          {
+            "id": "8304ed9baad6b24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NodeJS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NodeJS"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,11 +224,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c386a29ddb2d2a3",
+  "active": "8304ed9baad6b24e",
   "lastOpenFiles": [
+    "블렌더/MinusT/3. 실습 1.md",
+    "NodeJS.md",
+    "웹",
     "블렌더/MinusT/2. 기초 2.md",
     "블렌더/MinusT/1. 기초 1.md",
-    "블렌더/MinusT/3. 실습 1.md",
     "블렌더/MinusT",
     "블렌더",
     "Welcome.md"
